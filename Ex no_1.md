@@ -15,14 +15,14 @@ To write a program to initialize the value as 5.8 & display the same.
 #include <stdio.h>
 int main()
 {
-    float value = 5.2;
+    float value = 5.8;
     printf("The value is: %.1f\n", value);
     return 0;
 }
 ```
 
 ## Output:
-The value is: 5.2
+The value is: 5.8
 
 
 
