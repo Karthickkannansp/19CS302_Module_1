@@ -1,5 +1,5 @@
 # EX 4 C program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
-## DATE:
+## DATE:28-04-2025
 ## AIM:
 To write a C program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
 
@@ -29,6 +29,8 @@ int main() {
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/586024bc-ff9a-4fdf-9e13-be65322a5785)
+
 
 
 
