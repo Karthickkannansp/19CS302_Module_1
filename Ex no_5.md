@@ -28,6 +28,7 @@ int main() {
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/6fd1b3d2-6bcb-4055-8233-b708db515e17)
 
 
 
