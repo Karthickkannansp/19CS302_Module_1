@@ -1,5 +1,5 @@
 # EX 4 C program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
-## DATE:28-04-2025
+## DATE:03-03-2025
 ## AIM:
 To write a C program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
 
@@ -13,6 +13,9 @@ To write a C program to read the age of a person and determine whether he is eli
 
 ## Program:
 ```
+program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21)
+Developed by Karthick Kannan SP
+Register number:212222060114
 #include <stdio.h>
 int main() {
     int age;
