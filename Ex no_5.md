@@ -1,5 +1,5 @@
 # EX 5 C program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
-## DATE:28-04-2025
+## DATE:03-03-2025
 ## AIM:
 To write a C program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
 
@@ -14,6 +14,10 @@ To write a C program to calculate the total marks, average, and percentage of ma
 
 ## Program:
 ```
+program to calculate the total marks, average, and percentage of marks obtained in seven subjects
+Developed by Karthick Kannan SP
+Register number:212222060114
+
 #include <stdio.h>
 int main() {
  int sub1, sub2, sub3, total;
